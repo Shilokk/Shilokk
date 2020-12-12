@@ -5,6 +5,6 @@
 
 ![image title](https://rushter.com/counter.svg)
 
-<a href="playing.vercel.app/nowplaying/?open">
-    <img src="playing.vercel.app/nowplaying" width="256" height="64" alt="Now Playing">`
+<a href="https://playing.vercel.app/nowplaying/?open">
+    <img src="https://playing.vercel.app/nowplaying" width="256" height="64" alt="Now Playing">`
 </a>
