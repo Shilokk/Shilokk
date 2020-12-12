@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shilokk" alt="shilokk" /></a> </p>
 
-[![Spotify](https://playing.shilokk.vercel.app/api/spotify)](https://open.spotify.com/user/ShiloKk)
+[![Spotify](https://playing.shilokk.vercel.app/api/spotify)](https://open.spotify.com/user/pbo4vx8zi8bkmp1gskm0negc2)
 
 - 🔭 I’m currently working on [Some Random Quotes](https://github.com/Shilokk/SomeRandomQuotes)
 
