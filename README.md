@@ -5,6 +5,6 @@
 
 ![image title](https://rushter.com/counter.svg)
 
-<a href="https://spotify-git-master.shilokk.vercel.app/nowplaying?open">
-    <img src="https://spotify-git-master.shilokk.vercel.app/nowplaying" width="256" height="64" alt="Now Playing">`
+<a href="https://playing-2kx6btl04.vercel.app/nowplaying/?open">
+    <img src="https://playing-2kx6btl04.vercel.app/nowplaying" width="256" height="64" alt="Now Playing">`
 </a>
