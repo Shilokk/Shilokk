@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shilokk" alt="shilokk" /></a> </p>
 
+[![Spotify](https://playing.shilokk.vercel.app/api/spotify)](https://open.spotify.com/user/ShiloKk)
+
 - 🔭 I’m currently working on [Some Random Quotes](https://github.com/Shilokk/SomeRandomQuotes)
 
 - I currently am learning **CSS and typescript all in my free time.**
@@ -24,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shilokk&show_icons=true&locale=en" alt="shilokk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilokk&" alt="shilokk" /></p>
-[![Spotify](https://playing.shilokk.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
