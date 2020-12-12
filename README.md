@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shilokk&show_icons=true&locale=en" alt="shilokk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilokk&" alt="shilokk" /></p>
+[![Spotify](https://playing.shilokk.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
