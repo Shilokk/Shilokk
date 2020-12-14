@@ -8,11 +8,10 @@
 
 - 🔭 I’m currently working on [Some Random Quotes](https://github.com/Shilokk/SomeRandomQuotes)
 
-- I currently am learning **CSS and typescript all in my free time.**
 
 - 👨‍💻 Most of my projects are located here [https://github.com/Shilokk](https://github.com/Shilokk)
 
-- 📫 How to reach me **You can find me on discord 🎄Festive Shilo K.🎄#0366**
+- 📫 How to reach me **on discord 🎄Festive Shilo K.🎄#0366**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
